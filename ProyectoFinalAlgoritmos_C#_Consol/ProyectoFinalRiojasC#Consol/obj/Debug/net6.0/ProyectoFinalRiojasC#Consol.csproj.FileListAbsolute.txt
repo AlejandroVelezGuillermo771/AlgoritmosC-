@@ -1,0 +1,30 @@
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\bin\Debug\net6.0\ProyectoFinalRiojasC#Consol.exe
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\bin\Debug\net6.0\ProyectoFinalRiojasC#Consol.deps.json
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\bin\Debug\net6.0\ProyectoFinalRiojasC#Consol.runtimeconfig.json
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\bin\Debug\net6.0\ProyectoFinalRiojasC#Consol.dll
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\bin\Debug\net6.0\ProyectoFinalRiojasC#Consol.pdb
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.csproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.AssemblyInfoInputs.cache
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.AssemblyInfo.cs
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.csproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.dll
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\refint\ProyectoFinalRiojasC#Consol.dll
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.pdb
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.genruntimeconfig.cache
+C:\Users\soned\Videos\programas VS\ProyectoFinalRiojasC#Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ref\ProyectoFinalRiojasC#Consol.dll
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\bin\Debug\net6.0\ProyectoFinalRiojasC#Consol.exe
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\bin\Debug\net6.0\ProyectoFinalRiojasC#Consol.deps.json
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\bin\Debug\net6.0\ProyectoFinalRiojasC#Consol.runtimeconfig.json
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\bin\Debug\net6.0\ProyectoFinalRiojasC#Consol.dll
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\bin\Debug\net6.0\ProyectoFinalRiojasC#Consol.pdb
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.csproj.AssemblyReference.cache
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.AssemblyInfoInputs.cache
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.AssemblyInfo.cs
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.csproj.CoreCompileInputs.cache
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.dll
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\refint\ProyectoFinalRiojasC#Consol.dll
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.pdb
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ProyectoFinalRiojasC#Consol.genruntimeconfig.cache
+C:\Users\soned\Downloads\Proyecto Final Riojas Completado\ProyectoFinalAlgoritmos_C#_Consol\ProyectoFinalRiojasC#Consol\obj\Debug\net6.0\ref\ProyectoFinalRiojasC#Consol.dll
